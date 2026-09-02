@@ -1,6 +1,6 @@
 # OmsorgHub (CareHub)
 
-**OmsorgHub** is a comprehensive Swedish care management and rostering platform tailored for home care services (*hemtjänst*) and elderly care facilities (*äldreomsorg*). Built with React, TypeScript, and Tailwind CSS, it streamlines shift scheduling, capacity tracking, client allocation, and payroll calculation[cite: 5, 6].
+**OmsorgHub** is a comprehensive Swedish care management and rostering platform tailored for home care services (*hemtjänst*) and elderly care facilities (*äldreomsorg*). Built with React, TypeScript, and Tailwind CSS, it streamlines shift scheduling, capacity tracking, client allocation, and payroll calculation.
 
 ---
 
@@ -42,10 +42,10 @@
 
 ## Tech Stack
 
-- **Frontend:** React 18, TypeScript, Vite[cite: 5, 7]
-- **Styling:** Tailwind CSS, Lucide React (Icons)[cite: 5]
-- **State Management:** React Context API (`OmsorgContext`, `LanguageContext`)[cite: 5]
-- **Document Generation:** PDF generation for Swedish payslips (*Lönespecifikation*)[cite: 5, 6]
+- **Frontend:** React 18, TypeScript, Vite
+- **Styling:** Tailwind CSS, Lucide React (Icons)
+- **State Management:** React Context API (`OmsorgContext`, `LanguageContext`)
+- **Document Generation:** PDF generation for Swedish payslips (*Lönespecifikation*)
 
 ---
 
